@@ -2,11 +2,9 @@
 
 Collection of my projects in one program
 
-NotYetAnother (^>w<^) project
-
 ![Clios](https://memoridevel.ru/clios.png)
 
-***
+[ English | [Русский](README_RU.md) ]
 
 ## Idea
 
@@ -29,17 +27,4 @@ NotYetAnother (^>w<^) project
 * ability to load/save the drawing in paper format
 * games and rating
 
-***
-
-## Build
-
-```bash
-chmod +x build.sh
-
-./build.sh Debug Linux # for Debug on Linux
-./build.sh Release Linux # for Release on Linux
-./build.sh Debug Win32 # for Debug on Windows
-./build.sh Release Win32 # for Release on Windows
-```
-
-[Download](https://memoridevel.ru/clios)
+[~~Download~~](https://memoridevel.ru/clios)
